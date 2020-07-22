@@ -13,11 +13,11 @@ A TypeScript package starter project with microbundle, Jest, prettier
  - `npm test:watch`: Run test suite in [interactive watch mode](http://facebook.github.io/jest/docs/cli.html#watch)
  - `npm release`, Create a new release.
 
-# About
+### About
 
 This package is maintained by [TheColvinCo](https://www.thecolvinco.com)
 
-# LICENSE
+### LICENSE
 
 Code is licensed under the [MIT License](./LICENSE).
 
