@@ -1,3 +1,3 @@
-export default () => {
-  return "@thecolvinco";
+export default function main() {
+  return '@thecolvinco';
 }
