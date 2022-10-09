@@ -17,6 +17,9 @@ jobs:
     - name: install project dependencies
       run: yarn --prefer-offline
 
+    - name: lint
+      run: yarn lint
+
     - name: test
       run: yarn test
 
